@@ -1,5 +1,5 @@
 ## Hi there 👋
-# This is Srijani Roy!
+This is Srijani Roy!
 <!--
 **srijaniroy/srijaniroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
